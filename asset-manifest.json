@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c19f403a.chunk.css",
+    "main.js": "/static/js/main.a4a06115.chunk.js",
+    "main.js.map": "/static/js/main.a4a06115.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.efcfc4c6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.efcfc4c6.js.map",
+    "static/css/2.a4c36aa2.chunk.css": "/static/css/2.a4c36aa2.chunk.css",
+    "static/js/2.efedbb4d.chunk.js": "/static/js/2.efedbb4d.chunk.js",
+    "static/js/2.efedbb4d.chunk.js.map": "/static/js/2.efedbb4d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a9c9806fa452b963c9a029f04c304120.js": "/precache-manifest.a9c9806fa452b963c9a029f04c304120.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.a4c36aa2.chunk.css.map": "/static/css/2.a4c36aa2.chunk.css.map",
+    "static/css/main.c19f403a.chunk.css.map": "/static/css/main.c19f403a.chunk.css.map",
+    "static/js/2.efedbb4d.chunk.js.LICENSE.txt": "/static/js/2.efedbb4d.chunk.js.LICENSE.txt",
+    "static/media/clear.png": "/static/media/clear.217de0d5.png",
+    "static/media/cloud.png": "/static/media/cloud.4dc8014e.png",
+    "static/media/haze.png": "/static/media/haze.ebc28512.png",
+    "static/media/humidity.png": "/static/media/humidity.58b6976d.png",
+    "static/media/logoorg.png": "/static/media/logoorg.be5ee9e2.png",
+    "static/media/maxtemp.png": "/static/media/maxtemp.044f71bb.png",
+    "static/media/mintemp.png": "/static/media/mintemp.420ff3d2.png",
+    "static/media/mist.png": "/static/media/mist.56317e93.png",
+    "static/media/mp3.mp3": "/static/media/mp3.1ade292a.mp3",
+    "static/media/mute.png": "/static/media/mute.a047fa1e.png",
+    "static/media/pressure.png": "/static/media/pressure.f86662da.png",
+    "static/media/rain.png": "/static/media/rain.8d5deced.png",
+    "static/media/smoke.png": "/static/media/smoke.067f4b89.png",
+    "static/media/snow.png": "/static/media/snow.a0b64efe.png",
+    "static/media/temp.png": "/static/media/temp.b4ef8e05.png",
+    "static/media/thunderstorm.png": "/static/media/thunderstorm.2728ae8b.png",
+    "static/media/wifi.png": "/static/media/wifi.234e5503.png",
+    "static/media/wind.png": "/static/media/wind.afd2a69d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efcfc4c6.js",
+    "static/css/2.a4c36aa2.chunk.css",
+    "static/js/2.efedbb4d.chunk.js",
+    "static/css/main.c19f403a.chunk.css",
+    "static/js/main.a4a06115.chunk.js"
+  ]
+}
